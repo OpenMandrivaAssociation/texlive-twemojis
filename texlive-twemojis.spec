@@ -1,6 +1,6 @@
 Name:		texlive-twemojis
 Version:	62930
-Release:	1
+Release:	2
 Summary:	Use Twitter's open source emojis through LaTeX commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/twemojis
